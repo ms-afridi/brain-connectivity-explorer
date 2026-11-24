@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# models/ is kept in git on purpose: the app needs these files (largest is ~31 MB)
